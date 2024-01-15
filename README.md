@@ -5,7 +5,7 @@
 
 - <b>Recipe App(React (AlgoExpert)</b>
  
-- <b>Full Stack Web App (React, NodeJS,Mngo)</b>
+- <b>Full Stack Web App (React, NodeJS,Mongo Database)</b>
  
 
 
