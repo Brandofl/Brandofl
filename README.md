@@ -1,11 +1,12 @@
 <h1>Hi, I'm Brandon! Stony Brook College Student! I am Colorstack member and in Collegiate Science and Technology Entry Program (CSTEP)
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Computer Science Projects:</h2>
 
-- <b>Recipe App(React (AlgoExpert)</b>
+- <b>Walmart USA Advanced Software Engineering Virtual Experience </b>
  
 - <b>Full Stack Web App (React, NodeJS,Mongo Database)</b>
+- <b>Goldman Sachs Software Engineering Virtual Experience Program on Forage  </b>
  
 
 
