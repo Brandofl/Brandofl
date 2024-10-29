@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon! Stony Brook College Student! I am Colorstack member and in Collegiate Science and Technology Entry Program (CSTEP)
+<h1>Hi, I'm Brandon! Stony Brook College Student! I am Colorstack member and Stony Brook's prorgam called the DPLN(Diversity Professional Leadership Program). I am currently in Stony Brook University for a Bachelor of Science in Technological Systems Management, Specialization in Computer Science
 
 
 <h2>👨‍💻 Computer Science Projects:</h2>
