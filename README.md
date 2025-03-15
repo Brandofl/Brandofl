@@ -6,7 +6,7 @@
 - <b>Walmart USA Advanced Software Engineering Virtual Experience </b>
  
 - <b>Full Stack Web App (React, NodeJS,Mongo Database)</b>
-- <b>Goldman Sachs Software Engineering Virtual Experience Program on Forage  </b>
+- <b>Smart Calender Assistant Application  </b>
  
 
 
