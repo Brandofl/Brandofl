@@ -17,7 +17,7 @@
 
 
 
-[instagram]: https://www.instagram.com/jus.brandon0/
+[instagram]: https://www.instagram.com/jus.brandon0/](https://www.instagram.com/brvndonnn.__/)
 [linkedin]: https://linkedin.com/in/brandonfarrulla
 
 <!--
